@@ -1,0 +1,7 @@
+
+age= int (input("Hi! what is your Age \n "))
+print (type(age)) # Print the type of age variable
+if age < 18:
+    print("You are a minor.")  # Print if the user is a minor
+else:
+    print("You are an adult.")
