@@ -12,3 +12,5 @@ h = e / f
 print(h)
 i = a - b
 print(i)
+j = b % a
+print(j)
